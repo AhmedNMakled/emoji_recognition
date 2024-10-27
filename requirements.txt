@@ -4,3 +4,4 @@ TensorFlow
 transformers
 tf-keras
 jaxlib
+distutils
