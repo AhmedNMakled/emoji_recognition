@@ -1,7 +1,9 @@
-torch
-flax
-TensorFlow
 transformers
+speechrecognition
+tensorflow
+librosa scikit-learn gradio
+deep_translator
+gtts
+gTTS
 tf-keras
-jaxlib
-distutils
+torch
