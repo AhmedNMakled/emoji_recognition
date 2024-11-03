@@ -1,7 +1,9 @@
 transformers
 speechrecognition
 tensorflow
-librosa scikit-learn gradio
+librosa 
+scikit-learn 
+gradio
 deep_translator
 gtts
 gTTS
